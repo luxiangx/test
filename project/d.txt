@@ -1,1 +1,2 @@
 file d
+Add a new line.
